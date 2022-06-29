@@ -10,3 +10,5 @@ Bat.h
 Classes:
 Ball.cpp
 Bat.cpp
+
+Build does not have errors in Visual Studio 2019 Community IDE
